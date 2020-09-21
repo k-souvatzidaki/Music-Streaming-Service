@@ -29,4 +29,4 @@ We execute the main apps in the following order:
 
 ## Group
 [Themelina Kouzoumpasi](https://github.com/themelinaKz)
-Lydia Athanasiou
+[Lydia Athanasiou](https://github.com/lydia-ath)
