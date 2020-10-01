@@ -29,5 +29,5 @@ We execute the main apps in the following order:
 
 ## Group
 [Themelina Kouzoumpasi](https://github.com/themelinaKz)
-[Lydia Athanasiou](https://github.com/lydia-ath)
-[Konstantina Souvatzidaki] (https://github.com/k-souvatzidaki)
+[Lydia Athanasiou](https://github.com/lydia-ath)  
+[Konstantina Souvatzidaki](https://github.com/k-souvatzidaki)
